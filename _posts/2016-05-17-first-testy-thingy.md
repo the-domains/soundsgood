@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: First testy thingy
-datePublished: '2016-05-17T13:54:09.033Z'
-dateModified: '2016-05-17T13:54:08.593Z'
+datePublished: '2016-05-17T13:56:48.134Z'
+dateModified: '2016-05-17T13:56:42.079Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-first-testy-thingy.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-first-testy-thingy.md
 url: first-testy-thingy/index.html
 _type: Article
 
 ---
-First testy thingy
+> First testy thingy
