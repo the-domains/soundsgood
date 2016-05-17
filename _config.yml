@@ -1,0 +1,28 @@
+name: soundsgood
+favicon: null
+layout_spectrum: 0.6815154529176652
+typography_spectrum: 0.5877737547270954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6545273950323462
+  lightness: 0.2610964223276824
+  saturation: 0.6893819747492671
+  rhythmicContrast: 0.5360911034513265
+purpose: []
